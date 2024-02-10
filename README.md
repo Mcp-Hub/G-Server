@@ -7,13 +7,13 @@ G-Server est une application serveur HTTP simple avec authentification basique, 
 
 Pour exécuter G-Server, vous aurez besoin de Python 3.6 ou supérieur et la permission administrateur. Vous pouvez vérifier votre version de Python avec la commande suivante :
 
-```bash
+```python
 python --version
 ```
 
 ou
 
-```bash
+```python
 python3 --version
 ```
 
